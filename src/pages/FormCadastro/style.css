@@ -1,0 +1,34 @@
+
+.tituloCad{
+    text-align: center;
+    color:#314496;
+}
+.container{
+    background-color: white;
+    max-width: 800px;
+    margin:  0 auto;
+    overflow: auto;
+    min-height: 250px;
+    border: 2px solid #314496;
+    padding: 30px;
+    border-radius: 10px;
+   
+} 
+.div0,.div1,.div2,.div3,.div4,.div5{
+    
+    align-items: baseline;
+    display: flex;  
+    padding: 1rem;
+    padding-left: 1rem;
+    align-items: baseline;
+}
+.frete{
+    padding-top: 2rem;
+    border: 2px solid #314496;
+    border-radius: 1rem;
+}
+.tabs{
+    
+    padding-top: 2rem;
+    
+}

@@ -1,0 +1,48 @@
+.container{
+    background-color: white;
+    max-width: 70rem;
+    margin:  0 auto;
+    overflow: auto;
+    min-height: 250px;
+    border: 2px solid #314496;
+    padding: 30px;
+    border-radius: 10px;
+    
+}
+.primeiraParte{
+   display: flex; 
+    padding: 1rem;
+    justify-content: space-around;
+}
+
+.aberturaSoli{
+    color:#314496;
+    text-align: center;
+    border: 1px solid #314496;
+    max-width:30rem;
+    align-items: center;
+    padding: 2rem;
+    border-radius: 1rem;
+    
+
+}
+.acompanharSoli{
+    justify-content: space-between;
+    color:#314496;
+    text-align: center;
+    border: 1px solid #314496;
+    max-width:30rem;
+    align-items: center;
+    padding: 2rem;
+    border-radius: 1rem;
+
+}
+.stepsTollbar{
+    text-align: center;
+    padding: 5rem;
+    border: 1px solid #314496;
+  
+
+
+}
+

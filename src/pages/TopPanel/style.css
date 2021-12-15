@@ -1,0 +1,14 @@
+.primeirapart,.segundapart,.itens{
+    align-items: baseline;
+    display: flex;  
+    padding: 1rem;
+    padding-left: 1rem;
+}
+.terceirapart{
+    border: 1px solid #314496;
+    border-radius: 1rem;
+    align-items: baseline;
+    display: flex;  
+    padding: 1rem;
+    padding-left: 1rem;
+}
